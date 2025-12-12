@@ -1,16 +1,34 @@
-# fooddelivery
+🛒 QuickOrder
+A Modern Flutter Food Delivery App
+<p align="center"> <img src="https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/GetX-State%20Management-purple" /> <img src="https://img.shields.io/badge/Dio-Networking-green" /> <img src="https://img.shields.io/badge/License-MIT-yellow" /> <img src="https://img.shields.io/github/languages/top/zainyousefx/quickorder" /> </p>
 
-A new Flutter project.
+QuickOrder is a fast, clean, and user-friendly food delivery application built with Flutter and GetX.
+It features modern UI, seamless state management, secure API handling, and clean architecture for production-ready performance.
 
-## Getting Started
+✨ Features
 
-This project is a starting point for a Flutter application.
+🍽 User Features
 
-A few resources to get you started if this is your first Flutter project:
+🏠 Browse restaurants & popular dishes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔍 Search & filter meals
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛒 Add items to cart & view order summary
+
+📦 Track your order status in real-time
+
+❤️ Save favorites
+
+👤 Manage user profile
+
+🧠 Technical Features
+
+⚡ Clean MVC + GetX architecture
+
+🌍 Robust API integration via Dio
+
+🧱 Modular & reusable components
+
+🛑 Global error handling
+
+⚙️ Secure local storage
